@@ -1,3 +1,5 @@
+![alt text](https://leclaireur.fnac.com/wp-content/uploads/2022/12/shutterstock-2182468559.jpg)
+
 # YouTube Channel Category Classifier
 
 This is a Python script that uses the metadata of a YouTube channel, such as the name, keywords prescribed by the channel author, and a short description of the channel, to determine the category of the channel.
